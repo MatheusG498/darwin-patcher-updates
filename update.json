@@ -1,11 +1,11 @@
 {
-  "version": "2.0.2",
-  "notes": "Darwin Patcher v2.0.2 - VersÃ£o EstÃ¡vel.\n\nNovidades:\n- Listagem dinÃ¢mica e premium de lojas selecionadas acima do grid com opÃ§Ã£o de remover seleÃ§Ã£o individual.\n- DesmarcaÃ§Ã£o automÃ¡tica das lojas no grid em tempo real conforme terminam de rodar.\n- Salvamento seguro de credenciais completas (usuÃ¡rio e senha) com checkbox de 'Lembrar credenciais'.\n- ExibiÃ§Ã£o de changelog/novidades pÃ³s-atualizaÃ§Ã£o assim que o app reabre.\n- Download de atualizaÃ§Ã£o 100% silencioso e reinicializaÃ§Ã£o automÃ¡tica do executÃ¡vel.",
-  "pub_date": "2026-07-16T19:59:00Z",
+  "version": "2.0.3",
+  "notes": "Darwin Patcher v2.0.3.\n\nNovidades:\n- Confirmação nativa de atualizações via diálogo do sistema operacional (Sim/Não).\n- Ajustes de estabilidade na verificação automática de updates.",
+  "pub_date": "2026-07-16T23:28:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNzlxd2tjS3BjZFVudXR4eXdyaThlSDlabnpuN1VUN0hwMEQ4eTN5NjFYR2NDMWg3eTNRUzBVTVd0VzN2SERTbDB0UVg3K0hFR1NQOHRiZnA0ZmRHVFkxTHdyZ2hJRVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjQzNTU0CWZpbGU6RGFyd2luIFBhdGNoZXJfMi4wLjJfeDY0LXNldHVwLmV4ZQpsYXlRM05vUll3WU5rbk91N0tRUEpFK0xSaVM2OUdvNzUxUklKV0NTL28xLzVoUFF5VW1RNzk5UEpJTHIyOVhSSUdsK2MrM2Yxb3lYTCs3ZktYckFCdz09Cg==",
-      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.0.2/Darwin_Patcher_2.0.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNzlxd2tjS3BjZGE1bGFsVW82ZXJraG9OVDA5a09DcG1zK1d3V1BJcEIvczJOWkJqRTBMVUNxWkt0dkJFUURVbDFwOE9CVEVwUWhKTXRHV1ltOWlkeitZbWpDMnl4QndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjQ0NDUxCWZpbGU6RGFyd2luIFBhdGNoZXJfMi4wLjNfeDY0LXNldHVwLmV4ZQpuQ0ZkelYyQUxXY0JxUStrdGhiSlhzSWZXemY0Z2l2Z0ZaL3BOaCtwMzBsWG14bWlwbVFlMDk0a3VTcXQ2dmhIR1J4Q0JFc216Q1ZuY2kya3F4WEdCUT09Cg==",
+      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.0.3/Darwin_Patcher_2.0.3_x64-setup.exe"
     }
   }
 }
