@@ -1,7 +1,7 @@
 {
-  "version": "2.0.5",
-  "notes": "Darwin Patcher v2.0.5.\n\nNovidades:\n- Teste de atualização automática com modal customizado.",
-  "pub_date": "2026-07-17T01:00:00Z",
+  "version": "2.0.4",
+  "notes": "Darwin Patcher v2.0.4.\n\nNovidades:\n- Modal customizado de confirmação de atualização integrado ao estilo do programa (substitui o diálogo nativo do sistema operacional).\n- Modal customizado de novidades pós-atualização com changelog detalhado.\n- Modelos de overlay com glassmorphism escuro, comparador de versão e barra de rolagem estilizada.\n- Remoção do diálogo nativo de confirmação de update (Sim/Não) em favor da nova experiência integrada.",
+  "pub_date": "2026-07-17T00:20:02Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdndCU0t5cGc1Y3Rpd1BtZjlBS2J4SDdZRHFxVkppT2xLZzhxaHVaakhvU29KWW0wUVoyUlZrOTdhTlRmZkx4dUtlK3hydWhCVkpTTzZSOE43ZUs0ZnZScit1cTYxb2dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MjQ3NjAyCWZpbGU6RGFyd2luIFBhdGNoZXJfMi4wLjRfeDY0LXNldHVwLmV4ZQpsUUdjaURCZDcvNFJvaEdBaURGYXNuY2ZvSkIwVVdweng2SnRFSXpjU1FxeW4zMDR0dFNjK1hhYUI3MGhRUE5oL1ZuMU55OGluTUNMZ29iWGJad2xCUT09Cg==",
