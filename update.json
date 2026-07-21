@@ -1,7 +1,7 @@
 {
   "version": "2.0.5",
   "notes": "Darwin Patcher v2.0.5.\n\nNovidades:\n- Barra de título customizada e temática em estilo dark glassmorphism (com suporte nativo a arrastar janela e botões minimização, maximização e fechamento).\n- Detecção abrangente de erros de comando e código de saída (exit status != 0) na execução SSH/Linux.\n- Badges com falha permanecem fixas e destacadas em VERMELHO na listagem para fácil auditoria.\n- Badges de sucesso ficam VERDES e desaparecem automaticamente em 1.2s.\n- Campo de busca interna em tempo real dentro do menu dropdown de clientes (multiselect).\n- Tag dinâmica de exibição da versão do aplicativo na barra lateral.\n- Expansão do limite de Tasks (SSH) simultâneas para até 9999 alvos.",
-  "pub_date": "2026-07-21T02:22:00Z",
+  "pub_date": "2026-07-21T02:28:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSem05SXA0Y0RESk9pbjhNalQyQmhFcHg5ZmkyQm1YazZFRkdLcEJvQWQ2OEgydnRPSytvcGY5VWtEazJtTlBpWjZZMXJucUZaM01yL1B0bXNZRjdwaThpZmhPK3NrM3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjAwNDk1CWZpbGU6RGFyd2luIFBhdGNoZXJfMi4wLjVfeDY0LXNldHVwLmV4ZQovUCtTeUFvdXU5Lzh3TFFPSzhWT1N1M21GVkVMdSs0TG83L0lobEw0MkVzODFQL2NsUEJ5M3BieTVCWU92dDA0eVBxcGw0TDlTQXRhaHpIV05YK2RBZz09Cg==",
