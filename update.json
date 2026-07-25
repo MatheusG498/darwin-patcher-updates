@@ -1,11 +1,11 @@
 {
-  "version": "2.0.6",
-  "notes": "Darwin Patcher v2.0.6.\n\nNovidades:\n- Botão de cancelamento rápido de disparo de patches em tempo real.\n- Controle e sincronização bidirecional das Tasks simultâneas limitadas a 1000 alvos (via slider ou digitando o valor exato).\n- Clientes selecionados fixados no topo do menu suspenso com uma linha divisória horizontal.",
-  "pub_date": "2026-07-25T23:04:00Z",
+  "version": "2.0.7",
+  "notes": "Darwin Patcher v2.0.7.\n\nNovidades:\n- Corrigido o fluxo de reinicialização automática do aplicativo pós-atualização.",
+  "pub_date": "2026-07-25T23:15:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbUdkb2NrZzVXc3ZBVXVpQ3BjMVpjVjJtZ3h5Mk1IQkhVUHBaTFZCdHdOOUkzSW0yWUZqWGs4SFVyOWFFRFNaV3MvWXFLaUhDTDBXelM3aW81LzZ5QkRuTGU2TlBrNGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDIwNTg0CWZpbGU6RGFyd2luIFBhdGNoZXJfMi4wLjZfeDY0LXNldHVwLmV4ZQpKTVRQQU1yV1BBVzNnemVEbWpHdTh4Y295ZFM1dW9ibTFoT3Fza1FZSktDYUxOQ0xFaExPMkcwUWZDNkt0T1pkb2FicWNhWjl4OTl2dERFTU1VUGFDZz09Cg==",
-      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.0.6/Darwin_Patcher_2.0.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbUdkb2NrZzVXc21xd3pNK2lvM1hnUnBoS2pSRDhhZ3FSTmlRMzhLa25udFRMYThCYVVhYnVkLzgvaVF6VWFvNjhQVVJHeERGOUJIWmUwWjNNY05UMDFLbDN1ZGJRN3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDIxMjkyCWZpbGU6RGFyd2luIFBhdGNoZXJfMi4wLjdfeDY0LXNldHVwLmV4ZQoxYzVLd2srOHM3Ym14dkJ6eTRHSzhKMWZXakVkOHhZQlhNaVJXL2hkejBEOWxjek5GaU9zd2NqM0grbEZ2ZDBJdXJwU0V5RHJTT1d5QlR3ODVqRThCZz09Cg==",
+      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.0.7/Darwin_Patcher_2.0.7_x64-setup.exe"
     }
   }
 }
