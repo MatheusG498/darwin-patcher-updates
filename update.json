@@ -1,11 +1,11 @@
 {
-  "version": "2.0.8",
-  "notes": "Darwin Patcher v2.0.8.\n\nNovidades:\n- Sincronização em tempo real completa entre o rótulo de tarefas, o controle deslizante (slider) e a caixa de entrada de texto.",
-  "pub_date": "2026-07-26T22:41:00Z",
+  "version": "2.0.9",
+  "notes": "Darwin Patcher v2.0.9.\n\nNovidades:\n- Teste de validação oficial do atualizador automático com reinício integrado.",
+  "pub_date": "2026-07-26T22:47:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbUdkb2NrZzVXc20zL1FUWXB5a3d6UEpRRm16aUN4QXliVnBGa0Y0VGd5Y09PK3hxQmRpRHUrajhYbWQ2aEtvVzFCZy9FYnREL2EwSFVURnBLejNoQjJ4dmRSWFQ3ZUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTA1NzY2CWZpbGU6RGFyd2luX1BhdGNoZXJfMi4wLjhfeDY0LXNldHVwLmV4ZQpoZUhBeFhIRnVtdGNPWDJQc0YyL1VSVGRTcmVmVzFsVmsyZmFWZk9BdXR1TG1rVW53aG1OUWw0azV1QXpKZUFjeVhLSVo5ZXBhSmpNelZzemt1YXREQT09Cg==",
-      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.0.8/Darwin_Patcher_2.0.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbUdkb2NrZzVXc24vdTl6UHFIZVVsalhYK3lvM2lSTjlnK2lWelhQanlPS2llR0xTWTRDaEZrcnM2YUVxSkQycG5KQ3lIRm5HdlRKRDV5UzdBdFRNaHJtOXlSa0hROXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTA2MDY4CWZpbGU6RGFyd2luX1BhdGNoZXJfMi4wLjlfeDY0LXNldHVwLmV4ZQpyTFZXNUE4OFVKQUphNEtGRGY1aEt2anl6QmIwaFR6M1JUQkNhYlkwMWlyclVnTDA1OHVFSE1raXMyRURwNnh0Ly9kYkVBZGxvRU0rZDFlZUlvSllEdz09Cg==",
+      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.0.9/Darwin_Patcher_2.0.9_x64-setup.exe"
     }
   }
 }
