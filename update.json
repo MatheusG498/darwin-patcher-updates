@@ -1,11 +1,11 @@
 {
-  "version": "2.0.9",
-  "notes": "Darwin Patcher v2.0.9.\n\nNovidades:\n- Teste de validação oficial do atualizador automático com reinício integrado.",
-  "pub_date": "2026-07-26T22:47:00Z",
+  "version": "2.1.0",
+  "notes": "Darwin Patcher v2.1.0.\n\nNovidades:\n- Nova versão oficial com suporte completo a atualizações automáticas e reinicialização automática integrada.",
+  "pub_date": "2026-07-26T22:55:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbUdkb2NrZzVXc24vdTl6UHFIZVVsalhYK3lvM2lSTjlnK2lWelhQanlPS2llR0xTWTRDaEZrcnM2YUVxSkQycG5KQ3lIRm5HdlRKRDV5UzdBdFRNaHJtOXlSa0hROXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTA2MDY4CWZpbGU6RGFyd2luX1BhdGNoZXJfMi4wLjlfeDY0LXNldHVwLmV4ZQpyTFZXNUE4OFVKQUphNEtGRGY1aEt2anl6QmIwaFR6M1JUQkNhYlkwMWlyclVnTDA1OHVFSE1raXMyRURwNnh0Ly9kYkVBZGxvRU0rZDFlZUlvSllEdz09Cg==",
-      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.0.9/Darwin_Patcher_2.0.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbUdkb2NrZzVXc3RJNzBEVE9ZQ04rcEF1UjlWdiszbE51MHhhUWhIVG5QSjBTR1pUbmxzNEpnbGEzSkRJdmRDTnZFK0xIT3lxb1QvWFFoZ01FSy9vU3NRc2lwMWZTeGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTA2NTA0CWZpbGU6RGFyd2luX1BhdGNoZXJfMi4xLjBfeDY0LXNldHVwLmV4ZQppcmd2NStxU0Y5R013aCtlSVBPRnRKWHZsczJuN0VEeFdXUzF6Qk9ieTRldmU0c3gwMk9GbFptWFY3WlhMc0FmNVVmWnpEMmdMQk1QM0JUTVVLNzNBdz09Cg==",
+      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.1.0/Darwin_Patcher_2.1.0_x64-setup.exe"
     }
   }
 }
