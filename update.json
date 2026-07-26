@@ -1,11 +1,11 @@
 {
-  "version": "2.0.7",
-  "notes": "Darwin Patcher v2.0.7.\n\nNovidades:\n- Corrigido o fluxo de reinicialização automática do aplicativo pós-atualização.",
-  "pub_date": "2026-07-25T23:15:00Z",
+  "version": "2.0.8",
+  "notes": "Darwin Patcher v2.0.8.\n\nNovidades:\n- Sincronização em tempo real completa entre o rótulo de tarefas, o controle deslizante (slider) e a caixa de entrada de texto.",
+  "pub_date": "2026-07-26T22:41:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbUdkb2NrZzVXc21xd3pNK2lvM1hnUnBoS2pSRDhhZ3FSTmlRMzhLa25udFRMYThCYVVhYnVkLzgvaVF6VWFvNjhQVVJHeERGOUJIWmUwWjNNY05UMDFLbDN1ZGJRN3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MDIxMjkyCWZpbGU6RGFyd2luIFBhdGNoZXJfMi4wLjdfeDY0LXNldHVwLmV4ZQoxYzVLd2srOHM3Ym14dkJ6eTRHSzhKMWZXakVkOHhZQlhNaVJXL2hkejBEOWxjek5GaU9zd2NqM0grbEZ2ZDBJdXJwU0V5RHJTT1d5QlR3ODVqRThCZz09Cg==",
-      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.0.7/Darwin_Patcher_2.0.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbUdkb2NrZzVXc3JaVTU1TkN3UkVkakYwN1B2TzYxd29JUEJrcmdxd0s5akc4cEw3NVp6ZXB4RFpFMDA2RmJIY05oOThKWEpZMmV6UHR0SzFtWlVEOC9EdXpaWXlhbXdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTA1NjU0CWZpbGU6RGFyd2luIFBhdGNoZXJfMi4wLjhfeDY0LXNldHVwLmV4ZQp0UnlXRVBrNzRLQXIwSnVRMXZ1SjVCRUQ3TmxkV2FDd0xpdzQwa3RnQjBveXZ3S0xPODRVUk5HMm9UcFh0VXhOYlFtNlZMVHZYRUlWT2hSN0JScHZCQT09Cg==",
+      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.0.8/Darwin_Patcher_2.0.8_x64-setup.exe"
     }
   }
 }
