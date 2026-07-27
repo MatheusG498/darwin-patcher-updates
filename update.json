@@ -1,11 +1,11 @@
 {
-  "version": "2.1.0",
-  "notes": "Darwin Patcher v2.1.0.\n\nNovidades:\n- Nova versão oficial com suporte completo a atualizações automáticas e reinicialização automática integrada.",
-  "pub_date": "2026-07-26T22:55:00Z",
+  "version": "2.1.1",
+  "notes": "Darwin Patcher v2.1.1.\n\nNovidades:\n- Estabilização de chaves de assinatura do minisign e atualização automática com reinicialização automática integrada funcionando.",
+  "pub_date": "2026-07-27T01:37:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbUdkb2NrZzVXc3F1VGYvMC9QcERyNW9aVXI1ckdUQmtFdE01d0NncHdQK2p2NkUwZWhLNHp4K1kwQUxrSE9oWkxEdTBHWFJySm8vaUtPSndrM1hVVVljNElYR0ZTd0FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTA4MzAwCWZpbGU6RGFyd2luX1BhdGNoZXJfMi4xLjBfeDY0LXNldHVwLmV4ZQo3UTNaU1dMRWtCcEZLNjlmSXZpbkp6OFd5SFpZZ3pCTVJITnJLekVTaW8rRiszYjF4cythWmxHSnJTRDBuMkRtQnBid25qbmNFWHd3dGtCeDBDbnZCQT09Cg==",
-      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.1.0/Darwin_Patcher_2.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbUdkb2NrZzVXc3RyRW9TbXZ0ZDYzaUNlaFVxc1EvNzdidmp2Ym9nVUNTYUh4aHhEL1FRYjRvZm5nanE5VU14Q2R3SXdtOWZzSW5WdGtZUVlqNGRUMktaUGhHRSs4UUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTE2MjI5CWZpbGU6RGFyd2luX1BhdGNoZXJfMi4xLjFfeDY0LXNldHVwLmV4ZQpzeDdLUXphTnlLVkJnbEdwOGJ5bjlwTE5KQWt5OW8wTjAxVlNBa0VIejd3M1Z0QkNyN1BVWVNLNDRKVEN6VGo5OGNOLzhWRVFDazJtNnNvZnBWOGhEQT09Cg==",
+      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.1.1/Darwin_Patcher_2.1.1_x64-setup.exe"
     }
   }
 }
