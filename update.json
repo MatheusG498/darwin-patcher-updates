@@ -1,11 +1,11 @@
 {
-  "version": "2.1.1",
-  "notes": "Darwin Patcher v2.1.1.\n\nNovidades:\n- Estabilização de chaves de assinatura do minisign e atualização automática com reinicialização automática integrada funcionando.",
-  "pub_date": "2026-07-27T01:37:00Z",
+  "version": "2.1.2",
+  "notes": "Darwin Patcher v2.1.2.\n\nNovidades:\n- Resiliência a falhas de conexão com timeouts inteligentes configurados no banco e no SSH.\n- Cancelamento absoluto imediato das tarefas de patch sem travamentos na UI.",
+  "pub_date": "2026-08-02T16:53:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSWhIci9HQUZFUjB5RzQwYzJmM1daOGNtV1BtOE1BUVovUDNqL1lpSElXeWxkUzNNdG9JdGl2ZHZmdEZ0a2xPeGRuNStNTjJQaitobFpzTVoweWE5MWdOUFpkVms0OEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTIxNjY0CWZpbGU6RGFyd2luX1BhdGNoZXJfMi4xLjFfeDY0LXNldHVwLmV4ZQp3cDFiNnZIc0RHT1lSMnduNHNtZ0VlZGxXSWRLempya2pxSEpOamFDVGg5N1BqQ3hSUGRBa1lNZXgwS2ZFZ2xIUDZiREM4YVNRZlRSMmR3RVFjRmVEdz09Cg==",
-      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.1.1/Darwin_Patcher_2.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSWhIci9HQUZFUjd3YVlEYTNoRk83RXFPYkI4d1pvM2VNL09ZSlZuYWNPVWtreVRoR2V2QXltOTZ3d3JSdGoySU5NSnZWZ29KMmhGSUk1MDNBSzZvZ1ZZR1VoN0hhTWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Njg5NTQzCWZpbGU6RGFyd2luX1BhdGNoZXJfMi4xLjJfeDY0LXNldHVwLmV4ZQpDOS9HRDZjb0xNZCt4QXZ0VERoaFBrS3N3T3psLzVLYTNoV0FyanJsM1ZUOUtKT2RUNjVvWmY0cGtkMkhXQk1mMXV6ZHhHeFFDa0FHajVOMzBnajBBQT09Cg==",
+      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.1.2/Darwin_Patcher_2.1.2_x64-setup.exe"
     }
   }
 }
