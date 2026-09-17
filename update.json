@@ -1,11 +1,11 @@
 {
-  "version": "2.1.2",
-  "notes": "Darwin Patcher v2.1.2.\n\nNovidades:\n- Resiliência a falhas de conexão com timeouts inteligentes configurados no banco e no SSH.\n- Cancelamento absoluto imediato das tarefas de patch sem travamentos na UI.",
-  "pub_date": "2026-08-02T16:53:00Z",
+  "version": "2.1.3",
+  "notes": "Darwin Patcher v2.1.3.\n\nNovidades:\n- VerificaÃ§Ã£o periÃ³dica automÃ¡tica de 5 em 5 segundos no MongoDB Atlas mantendo o estado e posiÃ§Ãµes de rolagem da interface.\n- DetecÃ§Ã£o confiÃ¡vel de sucesso/falha e melhorias no console de execuÃ§Ã£o SSH.",
+  "pub_date": "2026-09-17T13:25:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSWhIci9HQUZFUjd3YVlEYTNoRk83RXFPYkI4d1pvM2VNL09ZSlZuYWNPVWtreVRoR2V2QXltOTZ3d3JSdGoySU5NSnZWZ29KMmhGSUk1MDNBSzZvZ1ZZR1VoN0hhTWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1Njg5NTQzCWZpbGU6RGFyd2luX1BhdGNoZXJfMi4xLjJfeDY0LXNldHVwLmV4ZQpDOS9HRDZjb0xNZCt4QXZ0VERoaFBrS3N3T3psLzVLYTNoV0FyanJsM1ZUOUtKT2RUNjVvWmY0cGtkMkhXQk1mMXV6ZHhHeFFDa0FHajVOMzBnajBBQT09Cg==",
-      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.1.2/Darwin_Patcher_2.1.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSWhIci9HQUZFUi9yQWd3bXhydEVTYkNGUE9pLytWR1RCZFl0dkdKTGV3MGFKYmNWakVKMU80SDZxbmY4TWx0TWZxU0EvZUJaR2pjc1pXY3N4MUtVNXAxamxtNXBYZGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjUxMDU4CWZpbGU6RGFyd2luIFBhdGNoZXJfMi4xLjNfeDY0LXNldHVwLmV4ZQoxeXc1QkN6d29CY1VmSHdvK1BCMHFJNzh1azNObzFlWFZ3blcwQnZEN25OaENlWHJCUnhTRExORnptQmZ3NGxhZXY3QkNvMVFxYVdSOGw0SXFZNWVBZz09Cg==",
+      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.1.3/Darwin_Patcher_2.1.3_x64-setup.exe"
     }
   }
 }
