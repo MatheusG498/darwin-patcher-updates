@@ -1,11 +1,11 @@
 {
-  "version": "2.1.3",
-  "notes": "Darwin Patcher v2.1.3.\n\nNovidades:\n- VerificaÃ§Ã£o periÃ³dica automÃ¡tica de 5 em 5 segundos no MongoDB Atlas mantendo o estado e posiÃ§Ãµes de rolagem da interface.\n- DetecÃ§Ã£o confiÃ¡vel de sucesso/falha e melhorias no console de execuÃ§Ã£o SSH.",
-  "pub_date": "2026-09-17T13:35:00Z",
+  "version": "2.1.4",
+  "notes": "Darwin Patcher v2.1.4.\n\nNovidades:\n- Nova aba 'Enviar Arquivos' (MultiSCP): envio simultaneo de um ou mais arquivos para multiplas boxes via SFTP, com descompactacao remota opcional (executada com sudo), reaproveitando a mesma selecao de lojas e o console de execucao.\n- Caminho remoto padrao /home/inwave e melhorias de layout/espacamento na barra lateral.\n\nATENCAO: esta versao usa uma nova chave de assinatura; sera necessario reinstalar manualmente uma vez para voltar a receber updates automaticos.",
+  "pub_date": "2026-09-22T18:53:01Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSWhIci9HQUZFUnl0N0NMdG9GTzl2SVdjSDRzejZBUXBCWDVkWFNPVXlwU01KTmdVK3htNzBOUVNrdm9kSGJKK2xxcUxxTE9KdnlHNjBTTWVuU2Z1WFA0cVpuaU85WEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5NjUyMTE3CWZpbGU6RGFyd2luX1BhdGNoZXJfMi4xLjNfeDY0LXNldHVwLmV4ZQpSWGxpWjJPQVA4NkRPdWlGZGhLcXNpekhCKzNNVG92ak5hVmpPdkUwYjFsNGI0bEtOVFljSVkxRW45b2RlTUdzNXhjTEtXMzg0YlEyUzY0K3Fsa0pDZz09Cg==",
-      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.1.3/Darwin_Patcher_2.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWnpnWHpiS1MzcHk2bTZSTUVibUpWTGY1S2JsMFhLMlczdG0rVUJDQy9RWGk2QmNkZVFnL0ZpUFpZRG1XNm93NnV6aTZJdWhNSkEyMFlYeUMzb25MRkdXS29zblBQMVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTAzMTU1CWZpbGU6RGFyd2luIFBhdGNoZXJfMi4xLjRfeDY0LXNldHVwLmV4ZQpDQlBkc3lCNW9xSE1oRHhoQWRZUXF4YTNzMGx3QzVPWEM3Z0VDMlovYWd4Tk1EaG9Vd0FMeThUaEdrVFkzZ0oyb3Y3eHdsNkJ2TU1wdUtlMFc5ZFBBQT09Cg==",
+      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.1.4/Darwin_Patcher_2.1.4_x64-setup.exe"
     }
   }
 }
