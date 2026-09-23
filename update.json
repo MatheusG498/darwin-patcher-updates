@@ -1,11 +1,11 @@
 {
-  "version": "2.1.4",
-  "notes": "Darwin Patcher v2.1.4.\n\nNovidades:\n- Nova aba 'Enviar Arquivos' (MultiSCP): envio simultaneo de um ou mais arquivos para multiplas boxes via SFTP, com descompactacao remota opcional (executada com sudo), reaproveitando a mesma selecao de lojas e o console de execucao.\n- Caminho remoto padrao /home/inwave e melhorias de layout/espacamento na barra lateral.\n\nATENCAO: esta versao usa uma nova chave de assinatura; sera necessario reinstalar manualmente uma vez para voltar a receber updates automaticos.",
-  "pub_date": "2026-09-22T18:53:01Z",
+  "version": "2.1.5",
+  "notes": "Darwin Patcher v2.1.5.\n\nCorrecoes:\n- Corrigido: lojas cujo nome contem colchetes (ex.: \"[PV] ...\") nao eram desmarcadas automaticamente ao concluir com sucesso. A extracao do MAC no log agora e robusta a colchetes no nome.",
+  "pub_date": "2026-09-23T18:47:28Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWnpnWHpiS1MzcHk2bTZSTUVibUpWTGY1S2JsMFhLMlczdG0rVUJDQy9RWGk2QmNkZVFnL0ZpUFpZRG1XNm93NnV6aTZJdWhNSkEyMFlYeUMzb25MRkdXS29zblBQMVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTAzMTU1CWZpbGU6RGFyd2luIFBhdGNoZXJfMi4xLjRfeDY0LXNldHVwLmV4ZQpDQlBkc3lCNW9xSE1oRHhoQWRZUXF4YTNzMGx3QzVPWEM3Z0VDMlovYWd4Tk1EaG9Vd0FMeThUaEdrVFkzZ0oyb3Y3eHdsNkJ2TU1wdUtlMFc5ZFBBQT09Cg==",
-      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.1.4/Darwin_Patcher_2.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWnpnWHpiS1MzcCtuTFNmazZ2UUxITlhYVVRjZUlmdDl4bFlacmZzWmVzS0VXWnh1anBPQllnam9IR0RyaFFJVGdtNHVoT3AyUHNlQWdSbVg1L1NFbVVBcEkzUjdwd3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTg5MjI3CWZpbGU6RGFyd2luIFBhdGNoZXJfMi4xLjVfeDY0LXNldHVwLmV4ZQowT1oyWjdxMngzNHdUdittUHZaaDdkdGt2NnpkTjZVTVBPZjRVd0NEd2ZTMy83WkoxVmhneXloejhBVjgvcER6M3Z0YkMrMXFmMUhkQ0dwRktXNXVCdz09Cg==",
+      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.1.5/Darwin_Patcher_2.1.5_x64-setup.exe"
     }
   }
 }
