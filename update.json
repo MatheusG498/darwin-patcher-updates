@@ -1,11 +1,11 @@
 {
-  "version": "2.1.5",
-  "notes": "Darwin Patcher v2.1.5.\n\nCorrecoes:\n- Corrigido: lojas cujo nome contem colchetes (ex.: \"[PV] ...\") nao eram desmarcadas automaticamente ao concluir com sucesso. A extracao do MAC no log agora e robusta a colchetes no nome.",
-  "pub_date": "2026-09-23T18:47:28Z",
+  "version": "2.1.6",
+  "notes": "Darwin Patcher v2.1.6.\n\nNovidades:\n- Botao de alternancia no Console de Logs para trocar entre o log completo e uma visao simplificada.\n- Visao simplificada reestruturada: agrupada por cliente e por loja, mostrando o comando executado e o retorno de cada caixa, com status (sucesso/falha) e resumo final. Visual mais agradavel.",
+  "pub_date": "2026-09-26T18:45:16Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWnpnWHpiS1MzcCtuTFNmazZ2UUxITlhYVVRjZUlmdDl4bFlacmZzWmVzS0VXWnh1anBPQllnam9IR0RyaFFJVGdtNHVoT3AyUHNlQWdSbVg1L1NFbVVBcEkzUjdwd3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTg5MjI3CWZpbGU6RGFyd2luIFBhdGNoZXJfMi4xLjVfeDY0LXNldHVwLmV4ZQowT1oyWjdxMngzNHdUdittUHZaaDdkdGt2NnpkTjZVTVBPZjRVd0NEd2ZTMy83WkoxVmhneXloejhBVjgvcER6M3Z0YkMrMXFmMUhkQ0dwRktXNXVCdz09Cg==",
-      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.1.5/Darwin_Patcher_2.1.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWnpnWHpiS1MzcC9UOVpIV0lleXc4eU1LZzdLaVp6L080KzFUR3dMZkJrUi9DcWVYV2NjczZPMVhWd3licTlxSC95bDFmUFdTbFVWU3RNSW15ZmtZNjVlbUNQQlNTMFE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNDQ4MzA0CWZpbGU6RGFyd2luIFBhdGNoZXJfMi4xLjZfeDY0LXNldHVwLmV4ZQpjN3B4RGdpOS83c1pQdVVpQU9ZNVpVQWpmeU84S0s0WDh1aSsrVDBQYmhzNnQ1Q3hEUElHSkNNc01BVGtjZEMwWGNEd1ZJVkZVZHg1NTBpTEU0b1FBZz09Cg==",
+      "url": "https://github.com/MatheusG498/darwin-patcher-updates/releases/download/v2.1.6/Darwin_Patcher_2.1.6_x64-setup.exe"
     }
   }
 }
